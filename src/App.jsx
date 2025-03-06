@@ -65,7 +65,7 @@ function App() {
       </div>
 
       <footer className="footer">
-        <p className="text2">Copyrights 2017 Vegetables cise / Design by Vegetables</p>
+        <p className="text2">Copyrights 2017 Vegetables cise / Design by Vegetables<br />數位三甲111119023陳嘉馨的蔬菜網頁範例改寫</p>
       </footer>
     </>
   )
